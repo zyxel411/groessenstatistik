@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 Größenanalyse')
 
-st.write('Hello world!')
+st.write('Größen-Auswertung nach Lieferant und Warengruppe')
